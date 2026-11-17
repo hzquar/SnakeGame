@@ -291,7 +291,7 @@ class Program
 
             }
 
-            Thread.Sleep(50);
+            Thread.Sleep(300);
 
         }
 
